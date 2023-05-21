@@ -1,0 +1,11 @@
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+ATOM      1  C1  UNK     1      39.245 -12.521  48.188  1.00  0.00     0.000 A 
+ATOM      2  C2  UNK     1      38.272 -11.632  48.647  1.00  0.00     0.000 A 
+ATOM      3  C3  UNK     1      39.695 -12.443  46.870  1.00  0.00     0.000 A 
+ATOM      4  C4  UNK     1      37.749 -10.667  47.787  1.00  0.00     0.000 A 
+ATOM      5  C5  UNK     1      39.171 -11.478  46.010  1.00  0.00     0.000 A 
+ATOM      6  C6  UNK     1      38.199 -10.589  46.469  1.00  0.00     0.000 A 
+ENDROOT
+TORSDOF 0

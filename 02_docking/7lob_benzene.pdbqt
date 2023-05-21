@@ -1,0 +1,126 @@
+MODEL 1
+REMARK VINA RESULT:      -5.3      0.000      0.000
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+ATOM      1  C1  UNK     1     -37.621  25.331 -11.980  1.00  0.00     0.000 A 
+ATOM      2  C2  UNK     1     -37.245  25.520 -10.650  1.00  0.00     0.000 A 
+ATOM      3  C3  UNK     1     -38.429  26.271 -12.617  1.00  0.00     0.000 A 
+ATOM      4  C4  UNK     1     -37.681  26.651  -9.956  1.00  0.00     0.000 A 
+ATOM      5  C5  UNK     1     -38.864  27.401 -11.925  1.00  0.00     0.000 A 
+ATOM      6  C6  UNK     1     -38.490  27.591 -10.595  1.00  0.00     0.000 A 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -5.3      0.162      1.973
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+ATOM      1  C1  UNK     1     -37.660  25.396 -12.062  1.00  0.00     0.000 A 
+ATOM      2  C2  UNK     1     -38.478  26.407 -12.565  1.00  0.00     0.000 A 
+ATOM      3  C3  UNK     1     -37.223  25.445 -10.739  1.00  0.00     0.000 A 
+ATOM      4  C4  UNK     1     -38.858  27.470 -11.743  1.00  0.00     0.000 A 
+ATOM      5  C5  UNK     1     -37.603  26.506  -9.917  1.00  0.00     0.000 A 
+ATOM      6  C6  UNK     1     -38.421  27.518 -10.420  1.00  0.00     0.000 A 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -3.9     25.645     26.794
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+ATOM      1  C1  UNK     1     -38.411  14.758  13.622  1.00  0.00     0.000 A 
+ATOM      2  C2  UNK     1     -38.111  15.463  12.457  1.00  0.00     0.000 A 
+ATOM      3  C3  UNK     1     -38.893  13.452  13.543  1.00  0.00     0.000 A 
+ATOM      4  C4  UNK     1     -38.294  14.862  11.211  1.00  0.00     0.000 A 
+ATOM      5  C5  UNK     1     -39.075  12.850  12.298  1.00  0.00     0.000 A 
+ATOM      6  C6  UNK     1     -38.776  13.555  11.132  1.00  0.00     0.000 A 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -3.9     25.646     26.696
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+ATOM      1  C1  UNK     1     -39.079  12.846  12.259  1.00  0.00     0.000 A 
+ATOM      2  C2  UNK     1     -38.873  13.406  13.520  1.00  0.00     0.000 A 
+ATOM      3  C3  UNK     1     -38.789  13.584  11.112  1.00  0.00     0.000 A 
+ATOM      4  C4  UNK     1     -38.380  14.707  13.633  1.00  0.00     0.000 A 
+ATOM      5  C5  UNK     1     -38.295  14.884  11.225  1.00  0.00     0.000 A 
+ATOM      6  C6  UNK     1     -38.090  15.445  12.486  1.00  0.00     0.000 A 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -3.7     14.353     15.742
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+ATOM      1  C1  UNK     1     -33.588  17.408   0.936  1.00  0.00     0.000 A 
+ATOM      2  C2  UNK     1     -34.441  17.945  -0.028  1.00  0.00     0.000 A 
+ATOM      3  C3  UNK     1     -33.418  16.027   1.026  1.00  0.00     0.000 A 
+ATOM      4  C4  UNK     1     -35.127  17.099  -0.901  1.00  0.00     0.000 A 
+ATOM      5  C5  UNK     1     -34.102  15.181   0.152  1.00  0.00     0.000 A 
+ATOM      6  C6  UNK     1     -34.956  15.718  -0.811  1.00  0.00     0.000 A 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -3.7     14.332     15.637
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+ATOM      1  C1  UNK     1     -33.450  15.887   0.942  1.00  0.00     0.000 A 
+ATOM      2  C2  UNK     1     -34.154  15.135   0.002  1.00  0.00     0.000 A 
+ATOM      3  C3  UNK     1     -33.570  17.276   0.955  1.00  0.00     0.000 A 
+ATOM      4  C4  UNK     1     -34.977  15.773  -0.927  1.00  0.00     0.000 A 
+ATOM      5  C5  UNK     1     -34.393  17.914   0.027  1.00  0.00     0.000 A 
+ATOM      6  C6  UNK     1     -35.097  17.162  -0.914  1.00  0.00     0.000 A 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -3.6     14.359     15.578
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+ATOM      1  C1  UNK     1     -34.983  15.756  -0.799  1.00  0.00     0.000 A 
+ATOM      2  C2  UNK     1     -34.125  15.177   0.136  1.00  0.00     0.000 A 
+ATOM      3  C3  UNK     1     -35.119  17.143  -0.856  1.00  0.00     0.000 A 
+ATOM      4  C4  UNK     1     -33.405  15.986   1.017  1.00  0.00     0.000 A 
+ATOM      5  C5  UNK     1     -34.398  17.951   0.023  1.00  0.00     0.000 A 
+ATOM      6  C6  UNK     1     -33.541  17.373   0.959  1.00  0.00     0.000 A 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -3.6     20.783     21.008
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+ATOM      1  C1  UNK     1     -47.696  16.778   4.325  1.00  0.00     0.000 A 
+ATOM      2  C2  UNK     1     -48.673  16.274   3.467  1.00  0.00     0.000 A 
+ATOM      3  C3  UNK     1     -46.538  16.041   4.573  1.00  0.00     0.000 A 
+ATOM      4  C4  UNK     1     -48.494  15.031   2.858  1.00  0.00     0.000 A 
+ATOM      5  C5  UNK     1     -46.358  14.800   3.964  1.00  0.00     0.000 A 
+ATOM      6  C6  UNK     1     -47.335  14.295   3.106  1.00  0.00     0.000 A 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -3.6     20.776     20.873
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+ATOM      1  C1  UNK     1     -46.343  14.884   4.018  1.00  0.00     0.000 A 
+ATOM      2  C2  UNK     1     -46.599  16.133   4.585  1.00  0.00     0.000 A 
+ATOM      3  C3  UNK     1     -47.269  14.310   3.148  1.00  0.00     0.000 A 
+ATOM      4  C4  UNK     1     -47.783  16.807   4.282  1.00  0.00     0.000 A 
+ATOM      5  C5  UNK     1     -48.452  14.984   2.844  1.00  0.00     0.000 A 
+ATOM      6  C6  UNK     1     -48.708  16.232   3.411  1.00  0.00     0.000 A 
+ENDROOT
+TORSDOF 0
+ENDMDL
